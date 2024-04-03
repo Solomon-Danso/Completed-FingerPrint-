@@ -1,0 +1,83 @@
+c:\users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\bin\Debug\BiometricApp.exe.config
+C:\Users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\obj\Debug\BiometricApp.csprojResolveAssemblyReference.cache
+C:\Users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.Capabilities.resources
+C:\Users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.Capture.resources
+C:\Users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.Enrollment.resources
+C:\Users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.EnrollmentControl.resources
+C:\Users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.Form_Main.resources
+C:\Users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\obj\Debug\BiometricApp.frmDBEnrollment.resources
+C:\Users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.Identification.resources
+C:\Users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.IdentificationControl.resources
+C:\Users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\obj\Debug\BiometricApp.Properties.Resources.resources
+C:\Users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.ReaderSelection.resources
+C:\Users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.Stream.resources
+C:\Users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.Verification.resources
+C:\Users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\obj\Debug\BiometricApp.csproj.GenerateResource.Cache
+C:\Users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\bin\Debug\BiometricApp.exe
+C:\Users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\bin\Debug\BiometricApp.pdb
+C:\Users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\obj\Debug\BiometricApp.exe
+C:\Users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\obj\Debug\BiometricApp.pdb
+C:\Users\circu\documents\visual studio 2013\Projects\BiometricApp\BiometricApp\obj\Debug\BiometricApp.frmDBVerify.resources
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\bin\Debug\BiometricApp.exe.config
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\bin\Debug\BiometricApp.exe
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\bin\Debug\BiometricApp.pdb
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\obj\Debug\BiometricApp.csproj.AssemblyReference.cache
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.Capabilities.resources
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.Capture.resources
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.Enrollment.resources
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.EnrollmentControl.resources
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.Form_Main.resources
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\obj\Debug\BiometricApp.frmDBEnrollment.resources
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\obj\Debug\BiometricApp.frmDBVerify.resources
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.Identification.resources
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.IdentificationControl.resources
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\obj\Debug\BiometricApp.Properties.Resources.resources
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.ReaderSelection.resources
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.Stream.resources
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\obj\Debug\UareUSampleCSharp.Verification.resources
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\obj\Debug\BiometricApp.csproj.GenerateResource.cache
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\obj\Debug\BiometricApp.csproj.CoreCompileInputs.cache
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\obj\Debug\BiometricApp.exe
+Z:\Desktop\TheDemos\BiometricApp\BiometricApp\obj\Debug\BiometricApp.pdb
+Z:\Desktop\TheDemos\Verify\BiometricApp\bin\Debug\BiometricApp.exe.config
+Z:\Desktop\TheDemos\Verify\BiometricApp\bin\Debug\BiometricApp.exe
+Z:\Desktop\TheDemos\Verify\BiometricApp\bin\Debug\BiometricApp.pdb
+Z:\Desktop\TheDemos\Verify\BiometricApp\obj\Debug\BiometricApp.csproj.AssemblyReference.cache
+Z:\Desktop\TheDemos\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.Capabilities.resources
+Z:\Desktop\TheDemos\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.Capture.resources
+Z:\Desktop\TheDemos\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.Enrollment.resources
+Z:\Desktop\TheDemos\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.EnrollmentControl.resources
+Z:\Desktop\TheDemos\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.Form_Main.resources
+Z:\Desktop\TheDemos\Verify\BiometricApp\obj\Debug\BiometricApp.frmDBEnrollment.resources
+Z:\Desktop\TheDemos\Verify\BiometricApp\obj\Debug\BiometricApp.frmDBVerify.resources
+Z:\Desktop\TheDemos\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.Identification.resources
+Z:\Desktop\TheDemos\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.IdentificationControl.resources
+Z:\Desktop\TheDemos\Verify\BiometricApp\obj\Debug\BiometricApp.Properties.Resources.resources
+Z:\Desktop\TheDemos\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.ReaderSelection.resources
+Z:\Desktop\TheDemos\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.Stream.resources
+Z:\Desktop\TheDemos\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.Verification.resources
+Z:\Desktop\TheDemos\Verify\BiometricApp\obj\Debug\BiometricApp.csproj.GenerateResource.cache
+Z:\Desktop\TheDemos\Verify\BiometricApp\obj\Debug\BiometricApp.csproj.CoreCompileInputs.cache
+Z:\Desktop\TheDemos\Verify\BiometricApp\obj\Debug\BiometricApp.exe
+Z:\Desktop\TheDemos\Verify\BiometricApp\obj\Debug\BiometricApp.pdb
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\bin\Debug\BiometricApp.exe.config
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\bin\Debug\BiometricApp.exe
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\bin\Debug\BiometricApp.pdb
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\obj\Debug\BiometricApp.csproj.AssemblyReference.cache
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.Capabilities.resources
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.Capture.resources
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.Enrollment.resources
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.EnrollmentControl.resources
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.Form_Main.resources
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\obj\Debug\BiometricApp.frmDBEnrollment.resources
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\obj\Debug\BiometricApp.frmDBVerify.resources
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.Identification.resources
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.IdentificationControl.resources
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\obj\Debug\BiometricApp.Properties.Resources.resources
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.ReaderSelection.resources
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.Stream.resources
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\obj\Debug\UareUSampleCSharp.Verification.resources
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\obj\Debug\BiometricApp.csproj.GenerateResource.cache
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\obj\Debug\BiometricApp.csproj.CoreCompileInputs.cache
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\obj\Debug\BiometricApp.exe
+Z:\Desktop\FingerSignalR\Verify\BiometricApp\obj\Debug\BiometricApp.pdb

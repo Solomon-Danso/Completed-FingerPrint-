@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Desktop\\FingerSignalR\\Verify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D24CB66-EF25-4C7F-872A-DC5C975857B7}|BiometricApp\\BiometricApp.csproj|z:\\desktop\\fingersignalr\\verify\\biometricapp\\frmdbverify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D24CB66-EF25-4C7F-872A-DC5C975857B7}|BiometricApp\\BiometricApp.csproj|solutionrelative:biometricapp\\frmdbverify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D24CB66-EF25-4C7F-872A-DC5C975857B7}|BiometricApp\\BiometricApp.csproj|Z:\\Desktop\\FingerSignalR\\Verify\\biometricapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D24CB66-EF25-4C7F-872A-DC5C975857B7}|BiometricApp\\BiometricApp.csproj|solutionrelative:biometricapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D24CB66-EF25-4C7F-872A-DC5C975857B7}|BiometricApp\\BiometricApp.csproj|Z:\\Desktop\\FingerSignalR\\Verify\\biometricapp\\frmdbenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D24CB66-EF25-4C7F-872A-DC5C975857B7}|BiometricApp\\BiometricApp.csproj|solutionrelative:biometricapp\\frmdbenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D24CB66-EF25-4C7F-872A-DC5C975857B7}|BiometricApp\\BiometricApp.csproj|Z:\\Desktop\\FingerSignalR\\Verify\\biometricapp\\frmdbverify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D24CB66-EF25-4C7F-872A-DC5C975857B7}|BiometricApp\\BiometricApp.csproj|solutionrelative:biometricapp\\frmdbverify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D24CB66-EF25-4C7F-872A-DC5C975857B7}|BiometricApp\\BiometricApp.csproj|Z:\\Desktop\\FingerSignalR\\Verify\\biometricapp\\frmdbenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D24CB66-EF25-4C7F-872A-DC5C975857B7}|BiometricApp\\BiometricApp.csproj|solutionrelative:biometricapp\\frmdbenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDBEnrollment.cs",
+              "DocumentMoniker": "Z:\\Desktop\\FingerSignalR\\Verify\\BiometricApp\\frmDBEnrollment.cs",
+              "RelativeDocumentMoniker": "BiometricApp\\frmDBEnrollment.cs",
+              "ToolTip": "Z:\\Desktop\\FingerSignalR\\Verify\\BiometricApp\\frmDBEnrollment.cs",
+              "RelativeToolTip": "BiometricApp\\frmDBEnrollment.cs",
+              "ViewState": "AQIAAIcBAAAAAAAAAAAAAJ8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-08T10:21:48.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDBEnrollment.cs [Design]",
+              "DocumentMoniker": "Z:\\Desktop\\FingerSignalR\\Verify\\BiometricApp\\frmDBEnrollment.cs",
+              "RelativeDocumentMoniker": "BiometricApp\\frmDBEnrollment.cs",
+              "ToolTip": "Z:\\Desktop\\TheDemos\\BiometricApp\\BiometricApp\\frmDBEnrollment.cs [Design]",
+              "RelativeToolTip": "..\\..\\TheDemos\\BiometricApp\\BiometricApp\\frmDBEnrollment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-08T10:21:48.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\FingerSignalR\\Verify\\BiometricApp\\Program.cs",
+              "RelativeDocumentMoniker": "BiometricApp\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\FingerSignalR\\Verify\\BiometricApp\\Program.cs",
+              "RelativeToolTip": "BiometricApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:21:48.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDBVerify.cs",
+              "DocumentMoniker": "Z:\\Desktop\\FingerSignalR\\Verify\\BiometricApp\\frmDBVerify.cs",
+              "RelativeDocumentMoniker": "BiometricApp\\frmDBVerify.cs",
+              "ToolTip": "Z:\\Desktop\\FingerSignalR\\Verify\\BiometricApp\\frmDBVerify.cs",
+              "RelativeToolTip": "BiometricApp\\frmDBVerify.cs",
+              "ViewState": "AQIAABIBAAAAAAAAAAAIwCEBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:21:48.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDBVerify.cs [Design]",
+              "DocumentMoniker": "Z:\\Desktop\\FingerSignalR\\Verify\\BiometricApp\\frmDBVerify.cs",
+              "RelativeDocumentMoniker": "BiometricApp\\frmDBVerify.cs",
+              "ToolTip": "Z:\\Desktop\\FingerSignalR\\Verify\\BiometricApp\\frmDBVerify.cs [Design]",
+              "RelativeToolTip": "BiometricApp\\frmDBVerify.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:21:48.961Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
